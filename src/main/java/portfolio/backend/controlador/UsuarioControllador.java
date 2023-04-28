@@ -64,7 +64,7 @@ import portfolio.backend.modelo.Usuario;
 @RequestMapping("/api/v1")
 //@Import(SecurityConfig.class)
 //@CrossOrigin(origins="http://localhost:4200/")
-@CrossOrigin(origins="https://portfolio-frontend-c7997.web.app")
+@CrossOrigin(origins="https://portfolio-frontend-c7997.web.app/")
 public class UsuarioControllador {
 
 	@Autowired
