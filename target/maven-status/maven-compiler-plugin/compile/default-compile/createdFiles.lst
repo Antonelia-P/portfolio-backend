@@ -17,4 +17,3 @@ portfolio\backend\modelo\Idioma.class
 portfolio\backend\repositorio\ProyectoRepositorio.class
 portfolio\backend\controlador\UsuarioControllador.class
 portfolio\backend\repositorio\ExperienciaRepositorio.class
-portfolio\backend\WebConfig.class
